@@ -14,10 +14,10 @@ public class main{
 
   WebDriver driver;
 
-  @Test
+  @Test(description = "Some first test")
   public void firstTest(){
-    WebDriverManager.chromedriver().setup();
-    driver = new ChromeDriver();
+    WebDriverManager.firefoxdriver().setup();
+    driver = new FirefoxDriver();
     driver.get("https://webmaker.org/");
     driver.manage().window().maximize();
     driver.findElement(By.xpath("//a[text()='Try Thimble']")).click();
