@@ -62,7 +62,7 @@
   </dependency>
   <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-firefox-driver</artifactId>
+    <artifactId>selenium-chrome-driver</artifactId>
     <version>3.8.1</version>
   </dependency>
   <dependency>
