@@ -1,6 +1,7 @@
 package someNewPack;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import static org.assertj.core.api.Assertions.assertThat;
@@ -15,6 +16,7 @@ public class main{
   WebDriver driver;
 
   @Test(description = "Some first test")
+  @Description("Some new test1")
   public void firstTest(){
     WebDriverManager.firefoxdriver().setup();
     driver = new FirefoxDriver();
