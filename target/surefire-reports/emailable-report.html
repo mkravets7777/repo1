@@ -9,51 +9,10 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Test1</th></tr>
-<tr><td><a href="#t0">Creepy</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">3,579</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Creepy</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">25,175</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Test1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Creepy &#8212; failed (configuration methods)</th></tr><tr class="failedeven"><td rowspan="1">someNewPack.main</td><td><a href="#m0">after</a></td><td rowspan="1">1517580989298</td><td rowspan="1">1</td></tr><tr><th colspan="4">Creepy &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">someNewPack.main</td><td><a href="#m1">firstTest</a></td><td rowspan="1">1517580985799</td><td rowspan="1">3347</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Test1</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Creepy &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">someNewPack.main</td><td><a href="#m0">firstTest</a></td><td rowspan="1">1517582498864</td><td rowspan="1">24933</td></tr></tbody>
 </table>
-<h2>Creepy</h2><h3 id="m0">someNewPack.main#after</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
-	at someNewPack.main.after(main.java:34)
-... Removed 28 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">someNewPack.main#firstTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.SessionNotCreatedException: Unable to find a matching set of capabilities
-Build info: version: &apos;3.8.1&apos;, revision: &apos;6e95a6684b&apos;, time: &apos;2017-12-01T18:33:54.468Z&apos;
-System info: host: &apos;GREENY&apos;, ip: &apos;10.129.1.224&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_144&apos;
-Driver info: driver.version: FirefoxDriver
-remote stacktrace: stack backtrace:
-   0:           0x47e934 - &lt;no info&gt;
-   1:           0x47f0a3 - &lt;no info&gt;
-   2:           0x442511 - &lt;no info&gt;
-   3:           0x4436da - &lt;no info&gt;
-   4:           0x42a890 - &lt;no info&gt;
-   5:           0x406f5e - &lt;no info&gt;
-   6:           0x40cfc9 - &lt;no info&gt;
-   7:           0x6bef19 - &lt;no info&gt;
-   8:           0x420756 - &lt;no info&gt;
-   9:           0x6b96e0 - &lt;no info&gt;
-  10:     0x7ffdebc68364 - BaseThreadInitThunk
-	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
-	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
-	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:123)
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
-	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
-	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
-	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
-	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:142)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:219)
-	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:142)
-	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)
-	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:98)
-	at someNewPack.main.firstTest(main.java:19)
-... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Creepy</h2><h3 id="m0">someNewPack.main#firstTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
