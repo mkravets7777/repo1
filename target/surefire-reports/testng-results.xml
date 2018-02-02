@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test1" duration-ms="27578" started-at="2018-02-02T13:22:14Z" finished-at="2018-02-02T13:22:41Z">
+  <suite name="Test1" duration-ms="25438" started-at="2018-02-02T13:34:55Z" finished-at="2018-02-02T13:35:21Z">
     <groups>
     </groups>
-    <test name="Creepy" duration-ms="27578" started-at="2018-02-02T13:22:14Z" finished-at="2018-02-02T13:22:41Z">
+    <test name="Creepy" duration-ms="25438" started-at="2018-02-02T13:34:55Z" finished-at="2018-02-02T13:35:21Z">
       <class name="someNewPack.main">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:someNewPack.main@6366ebe0]" name="firstTest" duration-ms="27531" started-at="2018-02-02T15:22:14Z" finished-at="2018-02-02T15:22:41Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:someNewPack.main@4bef0fe3]" name="firstTest" duration-ms="25209" started-at="2018-02-02T15:34:55Z" finished-at="2018-02-02T15:35:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="after()[pri:0, instance:someNewPack.main@6366ebe0]" name="after" is-config="true" duration-ms="0" started-at="2018-02-02T15:22:41Z" finished-at="2018-02-02T15:22:41Z">
+        <test-method status="PASS" signature="after()[pri:0, instance:someNewPack.main@4bef0fe3]" name="after" is-config="true" duration-ms="2" started-at="2018-02-02T15:35:21Z" finished-at="2018-02-02T15:35:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- after -->
