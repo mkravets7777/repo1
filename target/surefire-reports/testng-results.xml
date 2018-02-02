@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test1" duration-ms="25514" started-at="2018-02-02T11:59:16Z" finished-at="2018-02-02T11:59:42Z">
+    <groups>
+    </groups>
+    <test name="Creepy" duration-ms="25514" started-at="2018-02-02T11:59:16Z" finished-at="2018-02-02T11:59:42Z">
+      <class name="someNewPack.main">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:someNewPack.main@66d1af89]" name="firstTest" duration-ms="25478" started-at="2018-02-02T13:59:16Z" finished-at="2018-02-02T13:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:someNewPack.main@66d1af89]" name="after" is-config="true" duration-ms="0" started-at="2018-02-02T13:59:42Z" finished-at="2018-02-02T13:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- someNewPack.main -->
+    </test> <!-- Creepy -->
+  </suite> <!-- Test1 -->
+</testng-results>
