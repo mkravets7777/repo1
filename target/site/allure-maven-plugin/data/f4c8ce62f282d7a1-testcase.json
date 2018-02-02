@@ -1,0 +1,59 @@
+{
+  "uid" : "f4c8ce62f282d7a1",
+  "name" : "firstTest",
+  "title" : "First test",
+  "time" : {
+    "start" : 1517572756646,
+    "stop" : 1517572782076,
+    "duration" : 25430
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "3ae753fe515c6c17",
+    "name" : "Test1 : Creepy",
+    "title" : "Test1 : Creepy"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testSuite",
+    "value" : "Test1"
+  }, {
+    "name" : "testGroup",
+    "value" : "Creepy"
+  }, {
+    "name" : "testClass",
+    "value" : "someNewPack.main"
+  }, {
+    "name" : "testMethod",
+    "value" : "firstTest"
+  }, {
+    "name" : "host",
+    "value" : "GREENY"
+  }, {
+    "name" : "thread",
+    "value" : "14356@GREENY.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "Test1 : Creepy"
+  }, {
+    "name" : "suite-name",
+    "value" : "Test1 : Creepy"
+  } ],
+  "parameters" : [ ]
+}
