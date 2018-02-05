@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bab2f02-d9de-4163-ba2b-1f02768c4be5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/allure-results/1d8e3e02-ac77-4514-8468-96f78a525bfd-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/46233bb1-b2fc-4e3f-b056-ceab312c56b6-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/53ec0692-2a6f-4fb1-bc03-262a853ef4d3-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6993511b-bd62-4202-8f2f-8f54a0024258-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6bb8a04b-70ae-4433-8bc9-026fd6ee4be2-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7e4a9f8a-860c-4561-9b55-ad26f70a31bd-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8d49210a-5823-4563-b132-f3c9a0d32439-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9a8f208a-92b9-4aa4-b079-4a0d7b849407-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c54bfed1-ae88-4dac-80e0-f2fa4ddc80cd-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c63361e6-8f6c-429f-a0ff-278c49f33959-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cfcffa4a-c672-4758-bfec-481092751e41-result.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d6158ef7-f99e-4275-865d-d19eee564832-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/dfbe0ebc-830d-4eef-9b92-fb1a3d815677-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/edbca66e-6836-4e9f-aa9d-9f0720c968b5-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f81c320f-c204-4253-8cc6-eb01dd994e5d-container.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dfhdfhdfh.iws" afterPath="$PROJECT_DIR$/dfhdfhdfh.iws" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test1/Creepy.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test1/Creepy.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-someNewPack.main.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/Creepy.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/classes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/methods-alphabetical.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/methods-not-run.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/methods.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/reporter-output.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/testng.xml.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test1/toc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/someNewPack/main.java" afterPath="$PROJECT_DIR$/src/test/java/someNewPack/main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,25 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="145">
               <caret line="86" column="42" lean-forward="true" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/someNewPack/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="391">
+              <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,7 +65,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/test/java/someNewPack" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -125,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/main.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/someNewPack/main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/someNewPack/main.java" />
       </list>
     </option>
   </component>
@@ -527,7 +479,28 @@
       <option name="project" value="LOCAL" />
       <updated>1517837598580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dfsdfsdf24">
+      <created>1517840110556</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517840110556</updated>
+    </task>
+    <task id="LOCAL-00006" summary="dfsdfsdf25">
+      <created>1517846767020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517846767020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="dfsdfsdf26">
+      <created>1517847011841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517847011841</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -564,6 +537,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -577,7 +551,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -602,7 +576,10 @@
     <MESSAGE value="dfsdfsdf18" />
     <MESSAGE value="dfsdfsdf22" />
     <MESSAGE value="dfsdfsdf23" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfsdfsdf23" />
+    <MESSAGE value="dfsdfsdf24" />
+    <MESSAGE value="dfsdfsdf25" />
+    <MESSAGE value="dfsdfsdf26" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfsdfsdf26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -635,8 +612,8 @@
           <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -663,13 +640,23 @@
           <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" />
+    <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" />
+    <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven-plugin.html" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="86" column="42" lean-forward="true" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -678,25 +665,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" />
-    <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven-plugin.html" />
     <entry file="file://$PROJECT_DIR$/src/test/java/someNewPack/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="391">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="86" column="42" lean-forward="true" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
