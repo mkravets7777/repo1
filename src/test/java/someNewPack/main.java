@@ -18,8 +18,8 @@ public class main{
   @Test(description = "Some first test")
   @Description("Some new test1")
   public void firstTest(){
-    WebDriverManager.firefoxdriver().setup();
-    driver = new FirefoxDriver();
+    WebDriverManager.chromedriver().setup();
+    driver = new ChromeDriver();
     driver.get("https://webmaker.org/");
     driver.manage().window().maximize();
     driver.findElement(By.xpath("//a[text()='Try Thimble']")).click();
