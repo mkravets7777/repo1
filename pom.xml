@@ -93,6 +93,11 @@
     <version>2.9</version>
     <type>pom</type>
   </dependency>
+  <dependency>
+    <groupId>ru.yandex.qatools.allure</groupId>
+    <artifactId>allure-testng-adaptor</artifactId>
+    <version>1.5.4</version>
+  </dependency>
 </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
