@@ -21,13 +21,12 @@ public class main{
   @Description("Some new test1")
   public void firstTest(){
     WebDriverManager.chromedriver().setup();
-    driver = new ChromeDriver();
     ChromeOptions options = new ChromeOptions();
     options.addArguments("--start-maximized");
     DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     capabilities.setCapability(ChromeOptions.CAPABILITY, options);
+    driver = new ChromeDriver();
     driver.get("https://webmaker.org/");
-    driver.manage().window().maximize();
     driver.findElement(By.xpath("//a[text()='Try Thimble']")).click();
     try {
       Thread.sleep(10000);
