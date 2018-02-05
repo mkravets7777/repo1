@@ -266,6 +266,7 @@
     </configuration>
   </component>
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/java/someNewPack" vcs="Git" />
   </component>
   <component name="libraryTable">
@@ -555,6 +556,17 @@
         <root url="jar://$MAVEN_REPOSITORY$/io/github/bonigarcia/webdrivermanager/2.1.0/webdrivermanager-2.1.0-sources.jar!/" />
       </SOURCES>
     </library>
+    <library name="Maven: io.qameta.allure:allure-descriptions-javadoc:2.0-BETA21">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-descriptions-javadoc/2.0-BETA21/allure-descriptions-javadoc-2.0-BETA21.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-descriptions-javadoc/2.0-BETA21/allure-descriptions-javadoc-2.0-BETA21-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-descriptions-javadoc/2.0-BETA21/allure-descriptions-javadoc-2.0-BETA21-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Maven: io.qameta.allure:allure-java-commons:2.0-BETA21">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.0-BETA21/allure-java-commons-2.0-BETA21.jar!/" />
@@ -566,15 +578,15 @@
         <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-java-commons/2.0-BETA21/allure-java-commons-2.0-BETA21-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: io.qameta.allure:allure-testng:2.0-BETA3">
+    <library name="Maven: io.qameta.allure:allure-testng:2.0-BETA21">
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA3/allure-testng-2.0-BETA3.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA21/allure-testng-2.0-BETA21.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA3/allure-testng-2.0-BETA3-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA21/allure-testng-2.0-BETA21-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA3/allure-testng-2.0-BETA3-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/io/qameta/allure/allure-testng/2.0-BETA21/allure-testng-2.0-BETA21-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: io.qameta.allure:allure2-model-api:1.0-BETA6">
