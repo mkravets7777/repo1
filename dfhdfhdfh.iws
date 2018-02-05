@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bab2f02-d9de-4163-ba2b-1f02768c4be5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/someNewPack/main.java" afterPath="$PROJECT_DIR$/src/test/java/someNewPack/main.java" />
+      <change beforePath="$PROJECT_DIR$/dfhdfhdfh.iws" afterPath="$PROJECT_DIR$/dfhdfhdfh.iws" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,17 +16,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="23" lean-forward="false" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+            <state relative-caret-position="305">
+              <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/someNewPack/main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -68,7 +66,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/test/java/someNewPack" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -80,8 +78,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/main.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/someNewPack/main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -613,14 +611,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" />
     <entry file="file://$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven-plugin.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="73" column="23" lean-forward="false" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/someNewPack/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -630,6 +620,14 @@
             <element signature="e#1071#1072#0" expanded="true" />
             <element signature="e#1094#1095#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>

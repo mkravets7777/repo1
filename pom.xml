@@ -17,8 +17,11 @@
           <suiteXmlFile>testng.xml</suiteXmlFile>
         </suiteXmlFiles>
           <argLine>
-            -javaagent:"/home/new/Downloads/repfol1/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar"
+            -javaagent:"C:\Users\mkrave\Downloads\repfol1\org\aspectj\aspectjweaver\1.8.13\spectjweaver-1.8.13.jar"
           </argLine>
+        <forkCount>3</forkCount>
+        <reuseForks>true</reuseForks>
+        <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
       </configuration>
     </plugin>
     <plugin>
